@@ -1,9 +1,9 @@
-Title,release_year,runtime_min,imdb_score,imdb_votes
-Inception,2010,148,8.8,2268288
-Forrest Gump,1994,142,8.8,1994599
-Breaking Bad,2008,48,9.5,1727694
-Django Unchained,2012,165,8.4,1472668
-Saving Private Ryan,1998,169,8.6,1346020
-Stranger Things,2016,52,8.7,989090
-The Walking Dead,2010,46,8.2,945125
-Taxi Driver,1976,113,8.3,795222
+Title,Release Year,Runtime(minute/s),IMDB score,IMDB votes
+Inception(movie),2010,148,8.8,2268288
+Forrest Gump(movie),1994,142,8.8,1994599
+Breaking Bad(show),2008,48,9.5,1727694
+Django Unchained(movie),2012,165,8.4,1472668
+Saving Private Ryan(movie),1998,169,8.6,1346020
+Stranger Things(show),2016,52,8.7,989090
+The Walking Dead(show),2010,46,8.2,945125
+Taxi Driver(movie),1976,113,8.3,795222
